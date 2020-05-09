@@ -1,9 +1,9 @@
 {
-  "name": "my_vue1",
+  "name": "vue-learn",
   "version": "1.0.0",
-  "description": "my_vue1",
+  "description": "vue-learn",
   "author": "wangyong",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
